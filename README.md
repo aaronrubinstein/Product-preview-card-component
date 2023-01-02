@@ -13,13 +13,13 @@ Users should be able to:
 
 **Desktop layout:**
 
-<img src="./solution/desktop.jpg" width=50% height=50%>
+<img src="./solution/desktop.jpg" width=60% height=60%>
 
 **Mobile layout:**
 
-<img src="./solution/mobile.jpg" width=50% height=50%>
+<img src="./solution/mobile.jpg" width=35% height=35%>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/aaronrubinstein/Product-preview-card-component
+- Live Site URL: https://aaronrubinstein.github.io/Product-preview-card-component/
