@@ -13,11 +13,11 @@ Users should be able to:
 
 **Desktop layout:**
 
-![](./solution/desktop.jpg)
+<img src="./solution/desktop.jpg" width=50% height=50%>
 
 **Mobile layout:**
 
-![](./solution/mobile.jpg)
+<img src="./solution/mobile.jpg" width=50% height=50%>
 
 ### Links
 
