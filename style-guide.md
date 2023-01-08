@@ -14,7 +14,7 @@ The designs were created to the following widths:
 - Dark cyan: hsl(158, 36%, 37%)
 - Cream: hsl(30, 38%, 92%)
 
-### Neutral
+### NeutralNeutral
 
 - Very dark blue: hsl(212, 21%, 14%)
 - Dark grayish blue: hsl(228, 12%, 48%)
@@ -28,8 +28,10 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Family: [MontserratMontserrMontserratMontserratat](https://fonts.google.com/specimen/Montserrat)
 - Weights: 500, 700
-
-- Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
+NeutralNeutral Weights: 700
+NeutralNeutral Weights: 700
+NeutralNeutralNeutralNeutral
+MontserratMontserratMontserratMontserrat(https://fonts.google.com/specimen/Fraunces)
 - Weights: 700
